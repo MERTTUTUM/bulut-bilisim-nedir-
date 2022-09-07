@@ -1,5 +1,5 @@
 # Bulut-Bilisim-Nedir-
-Bulut Bilisime Giris
+
 Başka bir şirketin bilgisayarındaki depolama alanı veya CPU döngüleri gibi kaynakları kiralamayı sağlar. Başka bir deyişle programların veya verilerin çevrimiçi ortamda saklanması.
 
 _**Bulut Bilişim Avantajları**_
