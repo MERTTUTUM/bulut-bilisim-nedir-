@@ -6,5 +6,5 @@ Bu repo da Bulut Bilişim' in ne olduğunu , nasıl işlev gördüğü ve dünya
 
 
 # İçerikler
-* Bölüm 1           -> Bulut Bilişim Nedir?
+* [Bölüm 1](https://github.com/MERTTUTUM/Bulut-Bilisim-Nedir-/blob/main/Bolum1.md)-> Bulut Bilişim Nedir?
 * Bölüm 2          ->> Bulut Veri Tabanı(DBaaS) Nedir?
