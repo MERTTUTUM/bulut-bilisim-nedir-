@@ -32,3 +32,5 @@ _**BULUT VERİ TABANININ GELECEĞİ**_
 _**PaaS HİZMETLERİNDE VERİ TABANI**_
 
 > [PaaS Hizmetlerinde Veri Tabanı Birinci Sırada](https://www.flexera.com/blog/cloud/cloud-computing-trends-2022-state-of-the-cloud-report/)
+
+-> [Bolum1](https://github.com/MERTTUTUM/Bulut-Bilisim-Nedir-/blob/main/Bolum1.md)
