@@ -161,4 +161,4 @@ _**BULUT STRATEJİLERİNDE REHBER ALINACAK NOKTALAR**_
 5. Erişilebilirlik.
 6. Verimlilik.
 
---> [Bolum2](https://github.com/MERTTUTUM/Bulut-Bilisim-Nedir-/blob/main/Bolum2.md)
+ <-- [Ana Sayfa](https://github.com/MERTTUTUM/Bulut-Bilisim-Nedir-)   --> [Bolum2](https://github.com/MERTTUTUM/Bulut-Bilisim-Nedir-/blob/main/Bolum2.md)
