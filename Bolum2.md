@@ -25,7 +25,7 @@ _**BULUT VERİ TABANI SEÇERKEN NELERE DİKKAT EDİLMELİ?**_
 * Bakım
 * Denetim Seçenekleri
 
-_**BULUT VERİ TABANININ GELECEĞİ**_
+_**BULUT VERİ TABANI KULLANIMI**_
 
 > [Ücretli Bulut Bilişim Kullanımı Artışı ](https://data.tuik.gov.tr/Bulten/Index?p=Girisimlerde-Bilisim-Teknolojileri-Kullanim-Arastirmasi-2021-37435)
 
@@ -34,8 +34,8 @@ _**PaaS HİZMETLERİNDE VERİ TABANI**_
 > [PaaS Hizmetlerinde Veri Tabanı Birinci Sırada](https://www.flexera.com/blog/cloud/cloud-computing-trends-2022-state-of-the-cloud-report/)
 
 
-_**BULUT VERİ TABANI PAZARI GELECEĞİ İLE 2028 YILI TAHMNİNİ**_
+_**BULUT VERİ TABANI PAZARI GELECEĞİ YILI TAHMNİNİ**_
 
-> [Bulut Veri Tabanı Pazarı'nın Geleceği](https://www.marketintelligencedata.com/reports/5111417/global-database-as-a-service-dbaas-platform-market-2022-by-company-regions-type-and-application-forecast-to-2028/inquiry?mode=KST)
+> [Bulut Veri Tabanı Pazarı'nın Geleceği](https://www.marketsandmarkets.com/Market-Reports/cloud-database-as-a-service-dbaas-market-1112.html)
 
 <-- [Bolum1](https://github.com/MERTTUTUM/Bulut-Bilisim-Nedir-/blob/main/Bolum1.md)
