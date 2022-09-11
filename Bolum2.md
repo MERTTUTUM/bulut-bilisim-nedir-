@@ -33,4 +33,9 @@ _**PaaS HİZMETLERİNDE VERİ TABANI**_
 
 > [PaaS Hizmetlerinde Veri Tabanı Birinci Sırada](https://www.flexera.com/blog/cloud/cloud-computing-trends-2022-state-of-the-cloud-report/)
 
+
+_**BULUT VERİ TABANI PAZARI GELECEĞİ İLE 2028 YILI TAHMNİNİ**_
+
+> [Bulut Veri Tabanı Pazarı'nın Geleceği](https://www.marketintelligencedata.com/reports/5111417/global-database-as-a-service-dbaas-platform-market-2022-by-company-regions-type-and-application-forecast-to-2028/inquiry?mode=KST)
+
 <-- [Bolum1](https://github.com/MERTTUTUM/Bulut-Bilisim-Nedir-/blob/main/Bolum1.md)
