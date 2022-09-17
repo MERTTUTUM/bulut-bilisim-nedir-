@@ -103,27 +103,27 @@ _Hizmet Olarak Yazılım(SaaS)_
 
 _**BULUT'TA DEPOLAMA**_
 
-1. Doğrudan Depolama(Direct Attached)
-2. Dosya Depolama(File Storage)
-3. Blok Depolama(Block Storage)
-4. Nesne Depolama(Object Storage)
+1. Dosya Depolama(File Storage)
+2. Blok Depolama(Block Storage)
+3. Nesne Depolama(Object Storage)
 
-_Doğrudan Depolama_
 
-> İşletim sistemini depolamak için kullanılır.
-> 
 
 _Dosya Depolama_
 
 > NFS: Ağ depolama sistemi, birden çok sunucuya eklenebilmesi.
 > Daha az risk yönetimi 
 > Arızaya karşı dayanıklılık
+> muntazam şekilde organize edilmiş veri dosyalarını depolamak için kullanılan basit depolama sistemidir.
+> Dosyaları paylaşması ve saklaması gereken uygulamalar için biçilmiş kaftan. 
 
 _Blok Depolama_
 
 > Dosyaları veri parçalarına böler ve her bloğu benzersiz bir adres altında ayrı ayrı depolar.
 > Veri aktarımı sırasında şifreleme yaptığından dolayı verileri güvende tutar.
-> 
+> Eşit boyuttaki dosyalar için ayrılmış depolama bloklarına izin verir.
+> Yapısı gereği yüksek performans ve yüksek erişilebilirlik sunar.
+> Genellikle veri tabanları ve e-posta sunucularını depolamak için kullanılır.
 
 _Nesne Depolama_
 
@@ -131,6 +131,8 @@ _Nesne Depolama_
 > Verileri karşı tarafa yüklemek, indirmek ve yönetmek için API kullanır.
 > Çalışan işletim sistemi ve veri tabanları için uygun değil.
 > Statik dosyaları ve nesneleri depolamak için kullanılır.
+> Ortam dosyaları gibi yapılandırılmamış verileri kapsayıcılar olarak bilinen havuzlarda depolamak için kullanılır.
+> Ayrıca daha kolay veri erişimi ve izinlere de olanak tanır.
 
 _API_
 
