@@ -28,7 +28,7 @@ _**BULUT DAĞITIM MODELLERİ**_
 
 1. Genel Bulut(Public Cloud)
  
-*En yaygın dağıtım modelidir.
+> En yaygın dağıtım modelidir.
 > Her şey bulut sağlayıcısının donanımı üzerinde çalıştırılır.
 > İşletmeler çeşitli ölçeklerde birden çok genel bulut sağlayıcısı kullanabilir.
 > Kullanıcılar, uygulamalarının üzerinde çalıştığı sunuculara veya verilerinin tükettiği depolamaya sahip değildir.
@@ -78,16 +78,24 @@ _**BULUT HİZMET TÜRLERİ**_
 
 _Hizmet Olarak Altyapı(IaaS)_
 
+> Uygulamanızı çalıştıran donanımı yapılandırmak ve yönetmek için kontrolünüz olduğu en esnek bulut hizmetidir.
+> Şirketlerin kendi alt yapı ve donanımlarını işletme zorunluluğunu ortadan kaldırır.
 > En temel bulut bilişim hizmetleri kategorisi.
-> sunucular, ağ iletişimi, depolama
+> sunucular, ağ iletişimi, veri depolama, kimlik yönetimi gibi hizmetler sunabilir.
+
 
 _Hizmet Olarak Platform(PaaS)_
 
 > Uygulama geliştirmek ve dağıtmak için gereken donanım, yazılım araçlarına erişimi sağlar.
 > Yüksek düzeyde soyutlama ve kullanılabilirlik sağlar.
+> Kullanıcılar, tüm platform yönetimi bulut sağlayıcı tarafından yönetildiği için yalnızca uygulama geliştirmeye odaklanabilir.
+> Heroku,Salesforce,Google App Engine en yaygın PaaS örnekleridir.
+
 
 _Hizmet Olarak Yazılım(SaaS)_
 
+> Yazılımı tek tek cihazlara indirmek yerine kullanıcılara web üzerinden teslim edilen hizmet modelidir.
+> Yazılıma erişmek için web üzerinden oturum açmanız yeterli olacaktır.
 > Uygulamayı oluşturan sunucuları, veri tabanlarını korurlar .
 > Erişimi yönetirler.
 > Örnek uygulamalar(MS Office 365, Gmail).
