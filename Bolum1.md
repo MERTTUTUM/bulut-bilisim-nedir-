@@ -13,7 +13,7 @@ _**Bulut Bilişim Avantajları**_
 
 _**Ölçek Ekonomisi**_
 
-Ölçek ekonomisi kavramı, daha büyük ölçekte çalışırken işleri daha ucuz ve daha verimli yapma yeteneğidir. 
+Ölçek ekonomisi kavramı, daha küçük ölçekte çalıştırmaya kıyasla daha büyük bir ölçekte çalışırken işleri daha ucuz ve daha verimli yapma yeteneğidir.
 
 _Sermaye Giderleri(CapEx)_                                      
 
