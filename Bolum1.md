@@ -111,6 +111,7 @@ _**BULUT'TA DEPOLAMA**_
 _Doğrudan Depolama_
 
 > İşletim sistemini depolamak için kullanılır.
+> 
 
 _Dosya Depolama_
 
@@ -120,7 +121,9 @@ _Dosya Depolama_
 
 _Blok Depolama_
 
-> Dosyaları veri parçalarına böler ve her bloğu benzersiz bir adres altında ayrı ayrı depolar. Veri aktarımı sırasında şifreleme yaptığından dolayı verileri güvende tutar.
+> Dosyaları veri parçalarına böler ve her bloğu benzersiz bir adres altında ayrı ayrı depolar.
+> Veri aktarımı sırasında şifreleme yaptığından dolayı verileri güvende tutar.
+> 
 
 _Nesne Depolama_
 
