@@ -1,15 +1,15 @@
 # Bulut-Bilisim-Nedir-
 
-Başka bir şirketin bilgisayarındaki depolama alanı veya CPU döngüleri gibi kaynakları kiralamayı sağlar. Başka bir deyişle programların veya verilerin çevrimiçi ortamda saklanması.
+Başka bir şirketin bilgisayarındaki depolama alanı veya CPU döngüleri gibi kaynakları kiralamayı sağlar. Başka bir deyişle programların veya verilerin çevrimiçi ortamda saklanması. İnternet tabanlı bilişim hizmetlerinin genel adıdır.
 
 _**Bulut Bilişim Avantajları**_
 1. Uygun maliyetlidir.
 2. Ölçeklenebilir.
 3. Esnektir. 
-4. Günceldir.
-5. Güvenilirdir.
-6. Küreseldir.
-7. Güvenlidir.
+4. Güncel.
+5. Güvenilir.
+6. Küresel.
+7. Güvenli.
 
 _**Ölçek Ekonomisi**_
 
@@ -17,11 +17,11 @@ _**Ölçek Ekonomisi**_
 
 _Sermaye Giderleri(CapEx)_                                      
 
-Değeri zaman içinde düşen bir ön maliyettir. 
+Önceden fiziksel alt yapıya harcama yapmak ve ardından zaman içinde bu harcamaları verginizden düşmektir. Değeri zaman içinde düşen bir ön maliyettir. 
 
 _İşletme Giderleri(OpEx)_
 
-Ön maliyet yoktur. Hizmet veya ürüne bunları kullandığınız sırada ödeme yaparsınız.
+Hizmetlere veya ürünlere şimdi harcama yapmak ve bu harcamaları aynı yıl vergimizden düşmektir. Ön maliyet yoktur. Hizmet veya ürüne kullandığınız sırada ödeme yaparsınız.
 
 
 _**BULUT DAĞITIM MODELLERİ**_
@@ -38,10 +38,16 @@ _**BULUT DAĞITIM MODELLERİ**_
 
 > Kendi veri merkezinizde bir bulut ortamı oluşturur ve kuruluşunuzdaki kullanıcılara işlem kaynakları üzerinde self servis erişim sağlarsınız.
 > Donanım ve yazılım hizmetlerinin satın alınması sizin sorumluluğunuzdadır.
+> Sadece tek bir şirket için işletilen bulut alt yapısıdır.
+> Dahili olarak veya farklı bir bulut sağlayıcı tarafından yönetilebilir. 
+> Büyük şirketler ve veri güvenliğine önem veren şirketler tarafından tercih edilir.
 
 3. Hibrit Bulut(Hybrid Cloud)
 
 >  Genel ve özel bulutları birleştirerek, uygulamalarınızı en uygun konumda çalıştırmanıza olanak tanır.
+>  Değişen iş gereksinimlerine bağlı olarak esnektir.
+>  Verilerin ortamlar arasında problemsiz bir şekilde hareket etmesini sağlar. 
+>  Çeviklik ve risk yönetimi konusunda daha avantajlıdır.
 
 _**Bulut Dağıtım Modelleri Karşılaştırmaları**_
 
@@ -50,15 +56,21 @@ _Genel Bulut_
 > CapEx yok. 
 > Çeviklik.
 > Tüketim temelli modeller.
+> Düşük maliyet.
+> Ölçeklenebilirlik.
 
 _Özel Bulut_
 
 > Kontrol
 > Güvenlik
+> Denetim
+> Esneklik
 
 _Hibrit Bulut_
 
 > Esneklik
+> Denetim
+> Uygun maliyet
 > Gerektiğinde sıkı güvenlik ve uyum
 
 
