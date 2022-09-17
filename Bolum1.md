@@ -28,7 +28,7 @@ _**BULUT DAĞITIM MODELLERİ**_
 
 1. Genel Bulut(Public Cloud)
  
-> En yaygın dağıtım modelidir.
+*En yaygın dağıtım modelidir.
 > Her şey bulut sağlayıcısının donanımı üzerinde çalıştırılır.
 > İşletmeler çeşitli ölçeklerde birden çok genel bulut sağlayıcısı kullanabilir.
 > Kullanıcılar, uygulamalarının üzerinde çalıştığı sunuculara veya verilerinin tükettiği depolamaya sahip değildir.
